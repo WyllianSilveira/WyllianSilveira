@@ -1,6 +1,6 @@
-## Hi there👋
+## Hi there! I'm Wyllian.
 
-### My name is Wyllian
+
 
 
 - 🌱 I’m currently learning Html, Css, Javascript, React, Node, Git
