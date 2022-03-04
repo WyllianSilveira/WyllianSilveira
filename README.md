@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning React
 - 😍 I love exploring and learning new things
+- 🚀 I will learn: NodeJS and Database
 - 📫 How to reach me: wylliansilveira@gmail.com
 
 
