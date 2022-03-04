@@ -18,7 +18,7 @@
  </a>  
 &nbsp;<a href="https://api.whatsapp.com/send?phone=5541995291827" rel="nofollow"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="50"/>
 </a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/wyllian-silveira-calixto-63209a18b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/></a>
 </a>
 &nbsp; <a href="mailto:wylliansilveira@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="50"/></a>
 </p>
