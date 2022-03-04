@@ -8,8 +8,7 @@
 - 💬 Ask me about Front-end, I am always
   available to help and learn together.
 - 🚀 I will learn: NodeJS and Database
-- 📫 How to reach me: wylliansilveira@gmail.com
-
+- 🎮 I love play video games and listen musics in my free time
 
 <h3> My Skills: <h3>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
