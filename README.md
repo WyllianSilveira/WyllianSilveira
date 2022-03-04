@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React
 - 😍 I love exploring and learning new things
 - 💬 Ask me about Front-end, I am always
-  available to help and learn together.
+  available to help and learn together
 - 🚀 I will learn: NodeJS and Database
 - 🎮 I love play games and listen musics in my free time
 
