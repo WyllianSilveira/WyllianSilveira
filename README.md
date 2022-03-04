@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning React
-- ❤ I love exploring and learning new things
+- 😍 I love exploring and learning new things
 - 📫 How to reach me: wylliansilveira@gmail.com
 
 
