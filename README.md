@@ -3,10 +3,10 @@
 
 
 
-- 🌱 I’m currently learning Html, Css, Javascript, React, Node, Git
-- 🎓 I am currently in the fourth period of the graduation in systems analysis and development
+- 🌱 I’m currently learning React
+- ❤ I love exploring and learning new things
 - 📫 How to reach me: wylliansilveira@gmail.com
-- ❤ 
+
 
 <h3> My Skills: <h3>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
