@@ -16,7 +16,7 @@
 
 <h3> Connect With Me:</h3>
   </a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="50"/></a>
+&nbsp;<a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=5541995291827" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="50"/></a>
 </a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/></a>
 </a>
