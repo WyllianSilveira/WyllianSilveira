@@ -22,9 +22,9 @@
 
  
 <h3> Connect With Me:</h3>
-&nbsp; <a href="https://www.linkedin.com/in/wyllian-silveira-calixto-63209a18b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-&nbsp;<a href="https://api.whatsapp.com/send?phone=5541995291827" rel="nofollow" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="45"/></a>
-&nbsp; <a href="mailto:wylliansilveira@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/wyllian-silveira-calixto-63209a18b/" target="_blank" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+&nbsp;<a href="https://api.whatsapp.com/send?phone=5541995291827" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="45"/></a>
+&nbsp; <a href="mailto:wylliansilveira@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/></a>
 
 
 
