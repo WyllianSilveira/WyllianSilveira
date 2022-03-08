@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Javascript, Css, Html, React and git 
+- 🌱 I’m currently learning Javascript, Css, Html, React and Git 
 - 😍 I love exploring and learning new things
 - 💬 Ask me about Front-end, I am always
   available to help and learn together
@@ -15,6 +15,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"  width="40"/>
 <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
 <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="40"/><br><br>
 
 
