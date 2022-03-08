@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript, Css, Html, React and git 
 - 😍 I love exploring and learning new things
 - 💬 Ask me about Front-end, I am always
   available to help and learn together
