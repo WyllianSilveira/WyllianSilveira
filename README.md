@@ -23,7 +23,7 @@
 
  
 <h3> Connect With Me:</h3>
-&nbsp; <a href="https://www.linkedin.com/in/wyllian-silveira-calixto-63209a18b" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/wylliansilveiracalixto/" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
 &nbsp;<a href="https://api.whatsapp.com/send?phone=5541995291827"><img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" width="45"/></a>
 &nbsp; <a href="mailto:wylliansilveira@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/></a>
 
